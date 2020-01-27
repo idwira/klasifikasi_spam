@@ -38,3 +38,10 @@ Dari empat pesan, semua nya tepat dideteksi, baik sebagai spam dan bukan spam.
 VIII. Kesimpulan
 
 Pemodelan spam filtering secara sederhana dengan MultinomialNB sudah menghasilkan tingkat akurasi yang cukup tinggi, paling tidak untuk dataset yang dipakai ini. Butuh untuk dibuktikan untuk diuji di dataset yang lebih besar, juga hasil temuan bahwa banyak pesan (sms) yang merupakan template seperti “I’ll call you later” yang lazim di pesan singkat bisa dihilangkan (dihapus) dahulu untuk mendapat tingkat akurasi yang lebih reliable.
+
+REFERENSI
+
+[1] "Spam-or-Ham", https://github.com/tejank10/Spam-or-Ham/blob/master/spam_ham.ipynb
+[2] "Spam Filter using Naive Bayes", https://www.kaggle.com/mahmuud/spam-filter-using-naive-bayes/code
+[3] "Spam Classifier in Python from scratch", https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73
+[4] "Installing NLTK Data", https://www.nltk.org/data.html
