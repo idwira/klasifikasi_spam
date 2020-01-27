@@ -41,7 +41,7 @@ Pemodelan spam filtering secara sederhana dengan MultinomialNB sudah menghasilka
 
 REFERENSI
 
-[1] "Spam-or-Ham", https://github.com/tejank10/Spam-or-Ham/blob/master/spam_ham.ipynb
-[2] "Spam Filter using Naive Bayes", https://www.kaggle.com/mahmuud/spam-filter-using-naive-bayes/code
-[3] "Spam Classifier in Python from scratch", https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73
-[4] "Installing NLTK Data", https://www.nltk.org/data.html
+1. "Spam-or-Ham", https://github.com/tejank10/Spam-or-Ham/blob/master/spam_ham.ipynb
+2. "Spam Filter using Naive Bayes", https://www.kaggle.com/mahmuud/spam-filter-using-naive-bayes/code
+3. "Spam Classifier in Python from scratch", https://towardsdatascience.com/spam-classifier-in-python-from-scratch-27a98ddd8e73
+4. "Installing NLTK Data", https://www.nltk.org/data.html
